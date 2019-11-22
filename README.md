@@ -10,8 +10,8 @@
 ```
 
 {
-	"scripts": {
-	...
+    "scripts": {
+    ...
     "install": "cd ./script/MigrateAndroidX; node index.js"
   }
 }
