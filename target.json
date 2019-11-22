@@ -1,0 +1,20 @@
+[
+  "unimodules-image-loader-interface",
+  "expo-constants",
+  "expo-file-system",
+  "expo-barcode-scanner",
+  "expo-image-picker",
+  "expo-av",
+  "expo-web-browser",
+  "expo-permissions",
+  "expo-location",
+  "react-native-gesture-handler",
+  "react-native-fs",
+  "react-native-gizwits-palette-full",
+  "react-native-network-info",
+  "react-native-gizwits-rn-geofence",
+  "react-native-google-signin",
+  "@unimodules",
+  "@react-native-community",
+  "@react-native-community/netinfo"
+]
